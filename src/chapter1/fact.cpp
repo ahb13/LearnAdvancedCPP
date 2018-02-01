@@ -15,9 +15,6 @@ class Fact<0> {
 };
 
 
-
 int main(int argc, char* argv[]) {
     cout<<Fact<10>::value<<endl;
 }
-
-
